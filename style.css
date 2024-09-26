@@ -1,0 +1,29 @@
+.pinto{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.foot{
+    background-color: antiquewhite;
+    text-align: center;
+}
+.Table{
+    background-color: white;
+   border: 2px solid black;
+   border-collapse: collapse;
+}
+.Table th, .Table td {
+    border: 1px solid black; 
+    padding: 8px; 
+    text-align: center; 
+}
+.Table2{
+    background-color: white;
+   border: 2px solid black;
+   border-collapse: collapse;
+}
+.Table2 th, .Table2 td {
+    border: 1px solid black; 
+    padding: 8px; 
+    text-align: center; 
+}
